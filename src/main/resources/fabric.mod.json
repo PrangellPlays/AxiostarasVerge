@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "axiostara",
+	"version": "${version}",
+	"name": "Axiostara's Verge",
+	"description": "In the beginning, there were Axioms — unbreakable truths that shaped stars, worlds, and gods. But truth is no longer absolute. The Celestara, the ancient crucible where reality was first written, stirs once more. From shattered relics and forgotten machines, a new genesis awaits — one forged not by fate, but by your hand.",
+	"authors": [
+		"Prangell"
+	],
+	"contact": {
+		"homepage": "",
+		"issues": "",
+		"sources": ""
+	},
+	"license": "All Rights Reserved",
+	"icon": "assets/axiostara/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.prangell.axiostara.Axiostara"
+		],
+		"client": [
+			"dev.prangell.axiostara.AxiostaraClient"
+		],
+		"modmenu": [
+			"dev.prangell.axiostara.config.ModMenuCompat"
+		]
+	},
+	"mixins": [
+		"axiostara.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"midnightlib": "*",
+		"geckolib": ">=4.4.6"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}

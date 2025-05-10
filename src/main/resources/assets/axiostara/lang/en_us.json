@@ -1,0 +1,34 @@
+{
+  "__Comment": "Items",
+
+
+  "__Comment": "Blocks",
+
+
+  "__Comment": "Item Group",
+  "itemgroup.axiostara.items": "Axiostara's Verge",
+
+  "__Comment": "Subtitles",
+
+
+  "__Comment": "Death Message",
+
+
+  "__Comment": "Status Effect",
+
+
+  "__Comment": "Entity",
+
+
+  "__Comment": "Particles",
+
+
+  "__Comment": "Key Binding",
+  "category.axiostara": "Axiostara's Verge",
+
+  "__Comment": "Config",
+  "axiostara.midnightconfig.title": "Axiostara's Verge",
+
+  "axiostara.midnightconfig.category.axiostara": "Axiostara's Verge",
+  "axiostara.midnightconfig.enableMod": "Enable Mod"
+}
