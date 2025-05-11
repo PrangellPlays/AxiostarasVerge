@@ -1,12 +1,23 @@
 {
   "__Comment": "Items",
+  "item.axiostara.resonant_blade": "Resonant Blade",
+  "item.axiostara.resonant_blade.desc": "Forged not to cleave, but to tune the discordant. Each strike a note in the symphony of rebalance.",
 
+  "__Comment": "Weapon Types / Modes",
+  "axiostara.mode.percent": "Damage Mode: Percent",
+  "axiostara.mode.true": "Damage Mode: True",
+
+  "axiostara.type.stabilized": "Harmonic Type: Stabilized",
+  "axiostara.type.pulse": "Harmonic Type: Pulse",
+  "axiostara.type.disruptive": "Harmonic Type: Disruptive",
+  "axiostara.type.flowing": "Harmonic Type: Flowing",
 
   "__Comment": "Blocks",
 
 
   "__Comment": "Item Group",
   "itemgroup.axiostara.items": "Axiostara's Verge",
+  "itemgroup.axiostara.pulse_weapons_group": "Pulse Weapons",
 
   "__Comment": "Subtitles",
 
@@ -18,7 +29,7 @@
 
 
   "__Comment": "Entity",
-
+  "entity.axiostara.deep_mine_harmonizer": "Deep Mine Harmonizer",
 
   "__Comment": "Particles",
 
@@ -30,5 +41,5 @@
   "axiostara.midnightconfig.title": "Axiostara's Verge",
 
   "axiostara.midnightconfig.category.axiostara": "Axiostara's Verge",
-  "axiostara.midnightconfig.enableMod": "Enable Mod"
+  "axiostara.midnightconfig.enableArmorFlight": "Enable Axiostara's Verge Armor Flight"
 }

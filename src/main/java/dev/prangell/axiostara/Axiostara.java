@@ -1,6 +1,7 @@
 package dev.prangell.axiostara;
 
 import dev.prangell.axiostara.config.AxiostaraConfig;
+import dev.prangell.axiostara.util.AxiostaraRegistries;
 import eu.midnightdust.lib.config.MidnightConfig;
 import net.fabricmc.api.ModInitializer;
 
@@ -15,6 +16,7 @@ public class Axiostara implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		MidnightConfig.init(MOD_ID, AxiostaraConfig.class);
+		AxiostaraRegistries.init();
 	}
 
 	public static Identifier id(String path) {

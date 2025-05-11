@@ -1,0 +1,9 @@
+{
+  "message_id": "disruptive",
+  "scaling": "never",
+  "exhaustion": 0.1,
+  "effects": {
+    "magic": true,
+    "bypasses_invulnerability": true
+  }
+}

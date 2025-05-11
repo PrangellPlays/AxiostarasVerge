@@ -1,0 +1,9 @@
+{
+  "message_id": "stabilized",
+  "scaling": "never",
+  "exhaustion": 0.1,
+  "effects": {
+    "magic": true,
+    "bypasses_invulnerability": true
+  }
+}

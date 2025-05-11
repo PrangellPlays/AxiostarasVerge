@@ -1,0 +1,9 @@
+{
+  "message_id": "true",
+  "scaling": "never",
+  "exhaustion": 0.0,
+  "effects": {
+    "bypasses_armor": true,
+    "bypasses_invulnerability": true
+  }
+}
